@@ -1,4 +1,4 @@
-# Docker_CICD
+# Docker Training
 
 Hi all!  These are the files that you will require to complete the exercises in the course.
 
